@@ -26,7 +26,7 @@ Si exiges **transparencia, control de datos y escalabilidad empresarial**, este 
 
 MyCn18 garantiza la calidad del código mediante su **Jerarquía de Nodos**, la base de nuestra transparencia:
 
-  * **Nodos de Alto Nivel (HBN) — Componentes Completos:** Son las plantillas que arrastras (`Enviar correo`, `Analizar con LLM`, `Insertar en una BD`, etc.`). **La UI maneja su complejidad.**
+  * **Nodos de Alto Nivel (HBN) — Componentes Completos:** Son las plantillas que arrastras (`Enviar correo`, `Analizar con LLM`, `Insertar en una BD`, etc.). **La UI maneja su complejidad.**
   * **Nodos de Bajo Nivel (LBN) — Átomos de Programación:** Son los bloques fundamentales (`if-else`, `ciclos`, `sdk-call`). **El código generado siempre es limpio** porque se construye a partir de esta sintaxis atómica.
 
 -----
