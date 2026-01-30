@@ -18,4 +18,4 @@ Quisiera otorgar el crédito intelectual de la visión de un "IDE de auditoría 
 
 **Modus Zero** se encuentra actualmente en su fase inicial de desarrollo. El objetivo con **Mod0** es crear la herramienta definitiva que yo mismo, como desarrollador que prioriza la dirección estratégica sobre la sintaxis repetitiva, quiera usar cada día para construir el futuro.
 
-Si quieres seguir el avance de este enfoque o te interesa colaborar, puedes visitar el **[portal de desarrollo](https://luke1606.github.io/mycn18-consulting/)** y ponerte en contacto conmigo. Cada interacción contribuye a consolidar el estándar de **Modus Zero**.
+Si quieres seguir el avance de este enfoque o te interesa colaborar, procura visitar el **[portal](https://ModusZero.github.io/landing/)** y ponerte en contacto conmigo para avisarte apenas logre el primer descargable. Cada interacción contribuye a consolidar el estándar de **Modus Zero**.
