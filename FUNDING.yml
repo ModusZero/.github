@@ -7,7 +7,7 @@
 
 # Plataformas de Proyecto y Donación (Activas)
 
-thanks_dev: u/gh/luke1606
+# thanks_dev: u/gh/luke1606
 # buy_me_a_coffee: Luke1606
 # patreon: Luke1606
 
@@ -17,6 +17,5 @@ thanks_dev: u/gh/luke1606
 
 custom: [
   'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=antonioernestoalmaguerzayas@gmail.com',
-  'https://Luke1606.github.io/mycn18-consulting' # Enlace directo para consultoría profesional u horas de soporte.
 ]
 # -----------------------------------------------------------------------------
